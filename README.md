@@ -8,14 +8,16 @@
 
 ---
 
-# 💫 Tentang Saya:
+<div align="center">
+
+# 💫 Tentang Saya
 🙌 Halo, Saya **Reyka Mochammad Raihan**  
 💻 Seorang yang memiliki passion di bidang **Pengembangan Web**  
 ✨ Motto: *"Koding, Berkarya, dan Berkolaborasi"*  
 
 ---
 
-# 🌐 Media Sosial:
+# 🌐 Media Sosial
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reyka-mochammad-raihan) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reykamr50@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reyka_mr) 
@@ -23,7 +25,7 @@
 
 ---
 
-# 💻 Teknologi:
+# 💻 Teknologi
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -51,10 +53,12 @@
 
 ---
 
-# 📊 Statistik GitHub:
+# 📊 Statistik GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
@@ -62,3 +66,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
