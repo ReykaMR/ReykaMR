@@ -1,25 +1,31 @@
 <p align="center">
-  <img src="img/github-header-banner.png" alt="GitHub Profile Banner Reyka MR" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=25d40f&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+👋;Let's+Code+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A900F&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya+👋;Let's+Code+🚀" alt="Animasi Mengetik" />
 </p>
 
 <div align="center">
 
-# 💫 Tentang Saya
-🙌 Halo, Saya **Reyka Mochammad Raihan**  
-💻 Seorang yang memiliki passion di bidang **Pengembangan Web**  
-✨ Motto: *"Koding, Berkarya, dan Berkolaborasi"*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
+</picture>
 
-# 🌐 Media Sosial
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reyka-mochammad-raihan) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reykamr50@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reyka_mr) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reykamr) 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="368" height="200"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false" width="400" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="820" height="200"/>
+    </td>
+  </tr>
+</table>
 
-# 💻 Teknologi
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -35,28 +41,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-
-# 📊 Statistik GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
-</picture>
 
 </div>
