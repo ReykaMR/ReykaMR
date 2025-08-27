@@ -10,17 +10,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
 </picture>
 
-<table>
-  <tr>
-    <td>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="368" height="200"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false" width="400" height="200"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
+  <tr style="border: none;">
+    <td colspan="2" align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="820" height="200"/>
     </td>
   </tr>
