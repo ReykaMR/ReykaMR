@@ -1,29 +1,23 @@
 <p align="center">
-  <img src="img/github-header-banner.png" alt="Banner" width="100%" />
+  <img src="img/github-header-banner.png" alt="GitHub Profile Banner Reyka MR" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=25d40f&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+👋;Let's+Code+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=25d40f&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+👋;Let's+Code+🚀" alt="Typing Animation" />
 </p>
-
----
 
 <div align="center">
 
 # 💫 Tentang Saya
 🙌 Halo, Saya **Reyka Mochammad Raihan**  
 💻 Seorang yang memiliki passion di bidang **Pengembangan Web**  
-✨ Motto: *"Koding, Berkarya, dan Berkolaborasi"*  
-
----
+✨ Motto: *"Koding, Berkarya, dan Berkolaborasi"*
 
 # 🌐 Media Sosial
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reyka-mochammad-raihan) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reykamr50@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reyka_mr) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reykamr) 
-
----
 
 # 💻 Teknologi
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -50,8 +44,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-
----
 
 # 📊 Statistik GitHub
 
