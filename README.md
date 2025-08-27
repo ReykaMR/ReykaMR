@@ -10,7 +10,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
 </picture>
 
-<table style="border: none;">
+<table style="border: none; text-align: center;">
   <tr style="border: none;">
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="368" height="200"/>
@@ -20,7 +20,7 @@
     </td>
   </tr>
   <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none;">
+    <td colspan="2" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="820" height="200"/>
     </td>
   </tr>
