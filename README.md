@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A900F&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya+👋;Let's+Code+🚀" alt="Animasi Mengetik" />
-</p>
-
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A900F&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya+👋;Let's+Code+🚀" alt="Animasi Mengetik" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph-dark.svg">
