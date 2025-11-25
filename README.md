@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A900F&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya+👋;Let's+Code+🚀" alt="Animasi Mengetik" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A900F&center=true&vCenter=true&width=600&lines=Welcome+To+My+Profile+👋;Let's+Code+🚀" alt="Typing Animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph-dark.svg">
@@ -7,21 +8,27 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
 </picture>
 
-<table align="center">
+<table>
   <tr align="center">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="368" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="380"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false" width="400" height="200"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false" width="420"/>
     </td>
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="820" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&layout=compact" width="820"/>
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,5 +50,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
