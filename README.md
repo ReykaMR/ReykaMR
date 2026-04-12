@@ -8,21 +8,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
 </picture>
 
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ReykaMR&theme=neon&hide_border=false&include_all_commits=false&count_private=false" width="380"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=ReykaMR&theme=neon&hide_border=false" width="420"/>
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&theme=neon&hide_border=false&layout=compact" width="820"/>
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ReykaMR&theme=shadow-green&border_radius=10)](https://git.io/streak-stats)
 
 ---
 
