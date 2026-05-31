@@ -39,6 +39,4 @@
   ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReykaMR&layout=pie&hide_border=true&hide_title=true&langs_count=20)](https://github.com/ReykaMR)
-
 </div>
